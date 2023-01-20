@@ -1,0 +1,10 @@
+.tour-photo{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+}
+.card-image img{
+    height: 220px;
+}
